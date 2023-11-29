@@ -29,7 +29,7 @@
     "db:seed": "sequelize db:seed:all",
     "db:drop": "sequelize dp:drop",
     "db:create": "sequelize db:create",
-    "db:reset": "run-s db:drop db:create",
+    "db:reset": "run-s db:drop db:create"
   },
   "devDependencies": {
     "eslint": "^7.32.0 || ^8.2.0",
