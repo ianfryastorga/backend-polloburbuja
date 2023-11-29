@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "commonjs",
-  "repository": "https://github.com/IIC2513/grupo_polloburbuja_backend.git",
+  "repository": "https://github.com/ianfryastorga/backend-polloburbuja.git",
   "author": "Christ711 <christ.tolorza@uc.cl>",
   "license": "MIT",
   "dependencies": {
